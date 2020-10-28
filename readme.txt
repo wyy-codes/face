@@ -3,4 +3,5 @@
   hello world
 nihao
 china
+bad error
 
